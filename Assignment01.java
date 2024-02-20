@@ -6,7 +6,7 @@ public class Assignment01 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		int[] array = {19, 14, 20, 18, 2};
+		int[] array = {19, 14, 20, 18, 2, 4};
 		int sum = 0;
 		
 		System.out.println("Array: "+Arrays.toString(array)); 						//print Array
